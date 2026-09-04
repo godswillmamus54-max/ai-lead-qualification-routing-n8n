@@ -1,0 +1,34 @@
+{
+  "valid_requests": [
+    {
+      "name": "Daniel Okafor",
+      "email": "daniel@example.com",
+      "company": "Vertex Digital Solutions",
+      "message": "We need an automated system to capture and qualify leads from our website and route high-value prospects to our sales team.",
+      "source": "website"
+    },
+    {
+      "name": "Grace Williams",
+      "email": "grace@example.com",
+      "company": "BrightPath Consulting",
+      "message": "We receive many inbound inquiries and want AI to qualify them based on their needs, budget, and business potential before sending them to our sales team.",
+      "source": "referral"
+    },
+    {
+      "name": "Michael Johnson",
+      "email": "michael@example.com",
+      "company": "Nova Marketing Group",
+      "message": "We want to automate lead qualification and make sure qualified prospects are immediately routed to the right person for follow-up.",
+      "source": "website"
+    }
+  ],
+  "invalid_requests": [
+    {
+      "name": "",
+      "email": "invalid-email",
+      "company": "",
+      "message": "",
+      "source": "website"
+    }
+  ]
+}
