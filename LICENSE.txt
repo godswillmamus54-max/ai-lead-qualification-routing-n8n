@@ -1,0 +1,18 @@
+AI Lead Qualification & Routing Automation System
+Personal Commercial License
+
+This product is provided for use by the purchasing customer in their own business or projects.
+
+The purchaser may:
+- Import and configure the workflow in their own n8n environment.
+- Modify the workflow for their own internal business needs.
+- Use the automation for client work and commercial operations.
+
+The purchaser may not:
+- Resell, redistribute, share, publish, or sublicense the workflow files as a standalone product.
+- Upload or publish the workflow JSON to a public repository or marketplace.
+- Claim the original workflow as their own creation for resale.
+
+Third-party services used by the workflow may have their own terms, licenses, and usage fees. The purchaser is responsible for their own n8n, API, OpenAI, Google, Slack, hosting, and related service costs.
+
+Support and customization are provided according to the terms of the purchase or separately agreed services.
