@@ -2,6 +2,12 @@
 
 An AI-powered n8n automation that captures incoming business leads, validates submissions, detects duplicates, qualifies leads with AI, assigns a score, routes leads by temperature, alerts sales teams to high-value opportunities, and stores lead data in Google Sheets.
 
+**Author:** Godswill Ogheneochuko
+
+**Portfolio:** https://godswillai.dev/
+
+**GitHub:** https://github.com/godswillmamus54-max
+
 ## Overview
 
 Manual lead qualification can consume valuable sales-team time and cause high-value opportunities to be missed.
@@ -318,7 +324,16 @@ Google Sheets
 Webhook
 Testing
 Production deployment
+
 Security
+
+### Private Files
+
+The n8n workflow JSON is intentionally excluded from the public GitHub repository.
+
+The commercial Payhip package is also kept outside Git tracking.
+
+These files remain available locally for deployment and product distribution.
 
 This workflow template should not contain private credentials.
 
@@ -337,13 +352,17 @@ Passwords
 Private webhook secrets
 Authentication tokens
 Other sensitive credentials
+
 Project Structure
+
 AI-Lead-Qualification-Routing-System/
 │
-├── AI-Lead-Qualification-Routing-System.json
+├── .gitignore
 ├── INSTALLATION-GUIDE.md
-└── README.md
-Testing & Validation
+├── LICENSE.txt
+├── README.md
+├── SAMPLE-PAYLOADS.json
+└── AI-Lead-Qualification-Routing-System.json   # private/local
 
 The workflow has been tested against the following scenarios:
 
